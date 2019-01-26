@@ -7,7 +7,7 @@
 
 A visualization dashboard website plotting [weather data](Resources/cities.csv).
 
-In building this dashboard, individual pages exist for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. On the landing page, we can see a comparison of all of the plots, and there is another page where we can view the data used to build these plots. 
+ Website includes individual pages for each plot and a way to navigate between them. These pages contain the visualizations and their corresponding explanations. On the landing page, we can see a comparison of all of the plots, and there is another page where we can view the data used to build these plots. 
 
 ### Website Requirements
 
